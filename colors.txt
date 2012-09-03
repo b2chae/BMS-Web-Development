@@ -1,0 +1,6 @@
+Blues
+	 Dark
+#61cdff Light
+
+Orange
+#F16630
