@@ -1,5 +1,28 @@
+
+
+p
+{
+    font-size:0.875em;
+    font-family:"Verdana", Verdana, sans-serif;
+}
+
+h1
+{
+    font-size:2.5em;
+    font-family:"Georgia", Georgia, Serif;
+    color:#034769;
+}
+
+h2
+{
+    font-size:1.875em;
+    font-family:"Georgia", Georgia, Serif;
+    color:#034769;
+}
+
 body
 {
+    font-size:100%;
     padding:0px;
     margin:0px;
 }
