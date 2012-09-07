@@ -82,6 +82,8 @@ body
 
 #navigationTop li
 {
+    font-size:1.0em;
+    font-family:"Verdana", Verdana, sans-serif;
     display: inline;
 }
 
