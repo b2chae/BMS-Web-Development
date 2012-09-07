@@ -1,25 +1,74 @@
 Website Details:
 
-Needs login - Public and private/members site 
+
+Release 1:	
+People section with the members
+Blog
+
+Page Templates:
+
+1) Homepage
+2) Blog
+3) People page, but allow for customization (Each can build own page)
+4) About Us
+5) Admin Blog Post Page
+Homepage Elements
+	1. Header
+		a. Logo	
+		b. catch phrase/slogan
+	2. Footer
+		a. Contact Information
+		b. Disclaimer
+		c. Mini Site map??
+		d. Link to facebook page
+	3. Body
+		a. Most recent blog post
+			1. Should have a maximum size of half the body
+			2. Should be dynamic to shorten to the size of the blog post
+			3. On click, takes user to the blog page
+			4. Social media icons per comment
+			5. Ability to comment on post, but only on Blog page. Clicking comment takes user to blog page with open comment box
+			6. Clicking on Blogger's picture or profile takes user to that blogger's profile page
+			7. 
+		b. Mission and Vision synopsis
+		c. Video embed
+		d. Topics of interest (i.e.Dining this week)
+
+Blog (Admin vs. User) (Admin will have it's own page for making a blog post)
+	1. Global Elements retained
+	2. Body
+		a. Each blog post should maintain the same look as the blog post on the home page
+		b. Collapsible and expandible comments area
+		c. Social media options
+		d. Max number of posts (to be set)
+		e. Ability to page through posts
+	3. Blog post filter
+		a. most liked
+		b. most recent
+		c. most commented
+		d. hash tag search
+		e. Author
+
+
+
+
+Nice to have:
+1) Splash - for login. Digitally file heavy
+2)Rolling homepage image carousel
+
+Release 2 
+-Needs login - Public and private/members site 
 	Different levels of access
 		Admin
 		Members
 		Public
 	Allows for private blog posts
-People section with the members
-Blog
+1) Private Forum - members only
 
-Page Templates:
-1) Splash - for login. Digitally file heavy
-2) Homepage
-3) Blog
-4) Private Forum - members only
+Release 3+
 5) Store - (sell Zabala t-shirts and take 10%)
 	a) Phase 2
 	b) Entire checkout flow
-6) People page, but allow for customization
-7) About Us
-8) 
 
 
 Future thinking:
