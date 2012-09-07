@@ -32,24 +32,26 @@ body
     height: 230px;
     width: 100%;
     margin: auto;
-    background: #034769;
+    background: #67A7E6;
 }
 
 #banner
 {
     height: 120px;
-    width: 100%;
+    width: 75%;
     background-image: url('images/banner.png');
     background-repeat: repeat-x;
+    margin:auto;
 }
 
 #logo
 {
+    display:none;
     height: 100px;
     width: 100px;
     margin-top: 25px;
     margin-left: 25px;
-    background-color: #FF0000;
+    background-color: #034769;
     float: left; /*background-image:tree-of-practices-screen.gif;*/
 }
 
@@ -64,9 +66,10 @@ body
 #navigationTop
 {
     height: 60px;
-    width: 70%;
+    width: 75%;
     margin: auto;
     overflow: hidden;
+    background-color: #034769;
 }
 
 #navigationTop ul
@@ -86,7 +89,7 @@ body
 {
     float: left;
     height: 60px;
-    background-image: url('images/gn-button.png');
+    /*background-image: url('images/gn-button.png');*/
     width: 180px;
     display: block;
     text-transform: uppercase;
@@ -95,12 +98,12 @@ body
     text-align: center;
     padding-top: 20px;
     margin-left: 5px;
-    color: #034769;
+    color: #FFFFFF;
 }
 
 #navigationTop a:hover
 {
-    background-image: url('images/gn-buttonhover.png');
+    /*background-image: url('images/gn-buttonhover.png');*/
 }
 
 #backgroundMain
@@ -109,15 +112,17 @@ body
     padding: 0;
     width: 100%;
     margin: auto;
-    background-color: #67a7e6;
+    /*background-color: #67a7e6;*/
+    /*Light Blue Side Bars*/
+    background-color:#67A7E6;
 }
 
 #backgroundContent
 {
     height: 500px;
-    width: 70%;
+    width: 75%;
     margin: auto;
-    background-color: #67a7e6;
+    background-color: #67A7E6;
 }
 
 #sitemap
@@ -135,14 +140,14 @@ body
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 20px;
+    /*padding-left: 20px;*/
     background-color: #FFFFFF;
 }
 
 #footerDiv
 {
     height: 40px;
-    width: 100%;
-    background-color: #FF8C00;
+    width: 75%;
+    background-color: #034769;
     margin: auto;
 }

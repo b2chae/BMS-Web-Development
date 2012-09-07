@@ -1,6 +1,12 @@
 Blues
-	 Dark
-#61cdff Light
+	 
+
+Dark
+#034769
+
+Light
+#67A7E6
+
 
 Orange
 #F16630
