@@ -1,0 +1,26 @@
+Website Details:
+
+Needs login - Public and private/members site 
+	Different levels of access
+		Admin
+		Members
+		Public
+	Allows for private blog posts
+People section with the members
+Blog
+
+Page Templates:
+1) Splash - for login. Digitally file heavy
+2) Homepage
+3) Blog
+4) Private Forum - members only
+5) Store - (sell Zabala t-shirts and take 10%)
+	a) Phase 2
+	b) Entire checkout flow
+6) People page, but allow for customization
+7) About Us
+8) 
+
+
+Future thinking:
+XSS encryption
