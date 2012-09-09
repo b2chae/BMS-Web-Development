@@ -33,6 +33,9 @@ Homepage Elements
 		b. Mission and Vision synopsis
 		c. Video embed
 		d. Topics of interest (i.e.Dining this week)
+	4. Additional Functionality
+		a. Upon clicking one of the options in the top navigation (ex: Blog, About Us, etc) that option remains highlighted when on that page
+
 
 Blog (Admin vs. User) (Admin will have it's own page for making a blog post)
 	1. Global Elements retained
@@ -42,19 +45,22 @@ Blog (Admin vs. User) (Admin will have it's own page for making a blog post)
 		c. Social media options
 		d. Max number of posts (to be set)
 		e. Ability to page through posts
+		(f.) Auto load upon scroll to last 5% of page length
+		g. Upon clicking on blogger name or picture takes user to blogger's profile page
 	3. Blog post filter
 		a. most liked
-		b. most recent
+		b. most recent 
 		c. most commented
 		d. hash tag search
 		e. Author
+		f. Date (by month/year options)
 
 
 
 
 Nice to have:
 1) Splash - for login. Digitally file heavy
-2)Rolling homepage image carousel
+2) Rolling homepage image carousel
 
 Release 2 
 -Needs login - Public and private/members site 
